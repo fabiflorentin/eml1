@@ -1,0 +1,19 @@
+# Dockerized Python Application with Redis
+
+This is a Dockerized Python application that interacts with a Redis database. The application adds multiple keys with random values to the Redis database and then prints all keys along with their respective values.
+
+## Requirements
+- Docker
+
+## Usage
+
+### Build the Docker Image
+
+```bash
+docker build -t access_redis_app .
+```
+
+### Run Container
+
+```bash
+docker run access_redis_app
