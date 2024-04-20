@@ -1,4 +1,4 @@
-# EML 1.2 - Do notebook para produção
+#EML 1.2 - Do notebook para produção
 
 **API de previsão de churn 
   Esta é uma API simples construída com Flask para prever o churn de clientes usando um notebook criado
