@@ -1,4 +1,5 @@
 # EML 1.2 - Do notebook para produção
+
 **API de previsão de churn 
   Esta é uma API simples construída com Flask para prever o churn de clientes usando um notebook criado
   nas disciplina iml1 que prevê o churn com base nas features:
@@ -7,7 +8,7 @@
   - subscription_age
   - has_contract
   O modelo de previsão é treinado usando regressão logística e está disponível para uso via solicitações HTTP
-  **
+**
 
 ## Pré-requisitos
 
